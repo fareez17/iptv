@@ -3,3 +3,177 @@
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="",TV 2 
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",Okey
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",RTM Sports
+https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",Berita RTM
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",TV6
+https://rtm6mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",TV6 SD
+https://myklik.rtm.gov.my/embedded-channel/tv-6
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",TV1
+http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",TV2
+http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",TV3
+http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",NTV7 
+http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",TV8
+http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",TV9
+http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",astro ARENA 
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",astro SUPERSPORT 1
+http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",astro SUPERSPORT 2
+http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",astro SUPERSPORT 3
+http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",astro SUPERSPORT 4
+http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",astro AWANI 
+http://185.180.221.194:8278/streams/d/Awani/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",astro AEC
+http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",astro WARNA 
+http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",astro RIA 
+http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",astro PRIMA 
+http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",astro OASIS 
+http://185.180.221.194:8278/streams/d/Oasis/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",astro CERIA 
+http://185.180.221.194:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",astro CITRA 
+http://185.180.221.194:8278/streams/d/Citra/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",astro BOO 
+http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",astro HELLO 
+http://185.180.221.194:8278/streams/d/Hello/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",astro NAURA 
+http://185.180.221.194:8278/streams/d/Naura/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",astro XING HE
+http://185.180.221.194:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",astro QUAN JIA 
+http://185.180.221.194:8278/streams/d/Quanjia/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",astro AOD
+http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",astro XIAO TAI YANG 
+http://185.180.221.194:8278/streams/d/Xiaotaiyang/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",astro HUA HEE DAI 
+http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",astro  SHUANG XING 
+http://185.180.221.194:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",iQIYI 
+http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",FoxActionMovies
+http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",Thrill
+http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",AXN
+http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",TLC
+http://185.180.221.194:8278/streams/d/Tlc/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",Foxsport1
+http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",Foxsport3
+http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",FoxMovies
+http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",Foxlife
+http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",FoxFamilyMovie
+http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",Fox HD
+http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",Fox Crime
+http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",HBO
+http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",HBO HiTS 
+http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",HBO Signature
+http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",HITS 
+http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",HITS MOVIES 
+http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",CelestialMovie
+http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",CCM
+http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",ONE 
+http://185.180.221.194:8278/streams/d/One/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",TV1 
+http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",TV2
+http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",TV3
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",NTV7
+http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",8TV
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",TV9
+http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",TV Alhijrah
+http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",Bernama TV
+http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",CELESTIAL MOVIES 
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",astro BOO 
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",astro AOD 
+http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",astro AWANI 
+http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",astro WARNA 
+http://50.7.161.82:8278/streams/d/Warna/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",astro RIA 
+http://50.7.161.82:8278/streams/d/Ria/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",astro Ceria
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",astro Citra
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",astro Oasis
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",astro PRIMA 
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",astro QUAN JIA HD
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",astro SHUANG XING 
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",CCM 
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",ARENA 
+http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",astro SUPERSPORT 1
+http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",astro SUPERSPORT 2
+http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",astro SUPERSPORT 3
+http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",astro SUPERSPORT 4
+http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",TVB Xing He 星河
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",TVB 星河台
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",tvN 
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",ONE 
+http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",oh!k
+http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",CELESTIAL MOVIES 
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",CCM
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",HGTV 
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
