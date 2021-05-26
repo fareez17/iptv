@@ -1,180 +1,511 @@
-TV1
-https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
-TV2
-https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
-Okey
-https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
-RTM Sports
-https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
-Berita RTM
-https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
-TV6
-https://rtm6mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
-TV6 SD
-https://myklik.rtm.gov.my/embedded-channel/tv-6
-TVS
-TV1
-http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
-TV2
-http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
-TV3
-http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
-NTV7 
-http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
-TV8
-http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
-TV9
-http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
-astro ARENA 
-http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
-astro SUPERSPORT 1
-http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
-astro SUPERSPORT 2
-http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
-astro SUPERSPORT 3
-http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
-astro SUPERSPORT 4
-http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
-astro AWANI 
-http://185.180.221.194:8278/streams/d/Awani/playlist.m3u8
-astro AEC
-http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
-astro WARNA 
-http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
-astro RIA 
-http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
-astro PRIMA 
-http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
-astro OASIS 
-http://185.180.221.194:8278/streams/d/Oasis/playlist.m3u8
-astro CERIA 
-http://185.180.221.194:8278/streams/d/Ceria/playlist.m3u8
-astro CITRA 
-http://185.180.221.194:8278/streams/d/Citra/playlist.m3u8
-astro BOO 
-http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
-astro HELLO 
-http://185.180.221.194:8278/streams/d/Hello/playlist.m3u8
-astro NAURA 
-http://185.180.221.194:8278/streams/d/Naura/playlist.m3u8
-astro XING HE
-http://185.180.221.194:8278/streams/d/Xinhe/playlist.m3u8
-astro QUAN JIA 
-http://185.180.221.194:8278/streams/d/Quanjia/playlist.m3u8
-astro AOD
-http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
-astro XIAO TAI YANG 
-http://185.180.221.194:8278/streams/d/Xiaotaiyang/playlist.m3u8
-astro HUA HEE DAI 
-http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
-astro  SHUANG XING 
-http://185.180.221.194:8278/streams/d/Shuangxing/playlist.m3u8
-iQIYI 
-http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
-FoxActionMovies
-http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
-Thrill
-http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
-AXN
-http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
-TLC
-http://185.180.221.194:8278/streams/d/Tlc/playlist.m3u8
-Foxsport1
-http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
-Foxsport3
-http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
-FoxMovies
-http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
-Foxlife
-http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
-FoxFamilyMovie
-http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
-Fox HD
-http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
-Fox Crime
-http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
-HBO
-http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
-HBO HiTS 
-http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
-HBO Signature
-http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
-HITS 
-http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
-HITS MOVIES 
-http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
-CelestialMovie
-http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
-CCM
-http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
-ONE 
-http://185.180.221.194:8278/streams/d/One/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",VL SPORTS 
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12004&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",Eleven Sports Plus
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11006&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",Eleven Sports 2
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11007&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",Snooker
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12005&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",Sports 2
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12006&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",Sports 3
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12007&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",Sports 4
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12008&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",Tennis
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12009&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",Sports 5
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12011&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",Euro Sports
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13023&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",BRAVO
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8827&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",NAT WILD
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11008&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",WB
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11011&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",Cbeebies卡通
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11018&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",Baby TV
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11014&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",Life Time
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11017&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",asia Travel
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11020&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",FOX Malaysia
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12001&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",FOX MOVIES
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12002&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",FOX CRIME
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11009&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",FOX family
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11010&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",Crime Investigation
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11013&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",CNN
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12012&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",MTV台湾
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12013&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",MOMO亲子台
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12021&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",Animal Planet
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13014&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",ANIMAX
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13020&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",AXN
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13021&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",DMAX
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13011&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",Travel Channel
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13024&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",HBO
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13001&key=84797b799ae
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",HBO HITS
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13002&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",HBO family
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13003&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",HBO signature
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13004&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",Asian Food Network
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13005&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",EVE
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13006&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",Arirang
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13007&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",Discovery
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13008&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",Discovery Asia
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13009&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",Discovery Sci
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13010&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",National Geographic
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13012&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",CN卡通频道
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13015&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",Hollywood
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13016&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",CINEMAX
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13022&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",Disney卡通
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13019&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",BBC WORLD NEWS
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15007&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",BBC Earth
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11005&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",Food Network
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8802&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",Nat People
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8801&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",LUXE TV
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8806&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",History
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8811&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",History Channel 2
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8812&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",HGTV
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8808&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",Channel 5
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_10001&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",CNA
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_10007&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",AEC
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58025&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",AOD
+http://96.44.140.132:18006/view.php?type=m3u8&id=ml2_882&key=84797b799ae18d1b
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="",TVB华丽
+http://96.44.140.132:18006/view.php?type=m3u8&id=ml2_884&key=84797b799ae18d1b
 
-TV1 
-http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
-TV2
-http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
-TV3
-http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
-NTV7
-http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
-8TV
-http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-TV9
-http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-TV Alhijrah
-http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
-Bernama TV
-http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
-CELESTIAL MOVIES 
-http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-astro BOO 
-http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-astro AOD 
-http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
-astro AWANI 
-http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
-astro WARNA 
-http://50.7.161.82:8278/streams/d/Warna/playlist.m3u8
-astro RIA 
-http://50.7.161.82:8278/streams/d/Ria/playlist.m3u8
-astro Ceria
-http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-astro Citra
-http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-astro Oasis
-http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-astro PRIMA 
-http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
-astro QUAN JIA HD
-http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
-astro SHUANG XING 
-http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-CCM 
-http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-ARENA 
-http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
-astro SUPERSPORT 1
-http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
-astro SUPERSPORT 2
-http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
-astro SUPERSPORT 3
-http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
-astro SUPERSPORT 4
-http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
-TVB Xing He 星河
-http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
-TVB 星河台
-http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
-tvN 
-http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
-ONE 
-http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
-oh!k
-http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
-CELESTIAL MOVIES 
-http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-CCM
-http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-HGTV 
-http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+#EXTINF:-1,cctv-1
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/cctv1hd265/57/20191230/index.m3u8?&encrypt=1#http://121.18.168.2/mgsp.live.miguvideo.com:8088/wd_r2/cctv/cctv1hd/2500/index.m3u8?&encrypt=1
+#EXTINF:-1,cctv-2
+http://121.18.168.2/mgsp.live.miguvideo.com:8088/wd_r2/cctv/cctv2hd/3000/index.m3u8?&encrypt=1
+#EXTINF:-1,cctv-3
+http://121.18.168.2/mgsp.live.miguvideo.com:8088/wd_r2/ocn/cctv3hd/3000/index.m3u8?&encrypt=1
+#EXTINF:-1,cctv-4,
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/cctv4hd265/57/20191230/index.m3u8?&encrypt=1
+#EXTINF:-1,cctv-5
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/cctv5hd265/57/20191230/index.m3u8?&encrypt=1
+#EXTINF:-1,cctv-5+
+http://121.18.168.2/mgsp.live.miguvideo.com:8088/wd_r2/cctv/cctv5plusnew/2500/index.m3u8?&encrypt=
+#EXTINF:-1,cctv-6
+http://121.18.168.2/mgsp.live.miguvideo.com:8088/wd_r2/ocn/cctv6hd/3000/index.m3u8?&encrypt=1
+#EXTINF:-1,cctv-7
+http://121.18.168.2/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv7hd/57/index.m3u8?&encrypt=1
+#EXTINF:-1,cctv-8
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/ocn/cctv8hd/3000/index.m3u8?&encrypt=1
+#EXTINF:-1,cctv-9
+http://121.18.168.2/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv9hd/57/index.m3u8?&encrypt=1#http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv9hd/57/index.m3u8?&encrypt=1
+#EXTINF:-1,cctv-10
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/2018/ocn/cctv10hd/2000/index.m3u8?&encrypt=1
+#EXTINF:-1,cctv-11
+http://121.18.168.2/mgsp.live.miguvideo.com:8088/migu/kailu/cctv11hd/57/20200103/index.m3u8?&encrypt=1
+#EXTINF:-1,cctv-12
+http://121.18.168.2/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv12hd/57/index.m3u8?&encrypt=1
+cctv-14,http://121.18.168.2/mgsp.live.miguvideo.com:8088/migu/kailu/cctv14hd265/55/20200407/index.m3u8?&encrypt=1
+#EXTINF:-1,cctv-15
+http://121.18.168.2/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv15hd/57/index.m3u8?&encrypt=1
+#EXTINF:-1,cctv风云音乐
+http://121.18.168.2/mgsp.live.miguvideo.com:8088/ws_v/2018/fyyy/fyyy711/1000/index.m3u8?ProgramID=&encrypt=
+#EXTINF:-1,浙江卫视
+http://121.18.168.2/mgsp.live.miguvideo.com:8088/wd_r2/cctv/zhejianghd/2500/index.m3u8?ProgramID=&encrypt=
+#EXTINF:-1,江苏卫视
+http://121.18.168.2/mgsp.live.miguvideo.com:8088/wd_r2/cctv/jiangsuhd/2500/index.m3u8?&encrypt=1
+#EXTINF:-1,湖南卫视
+http://121.18.168.2/mgsp.live.miguvideo.com:8088/wd-hunanhd-2500/index.m3u8?&encrypt=1#http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd-hunanhd-2500/index.m3u8?&encrypt=1
+#EXTINF:-1,东方卫视
+http://121.18.168.2/mgsp.live.miguvideo.com:8088/wd_r4/dfl/dongfangwshd/3000/index.m3u8?&encrypt=1
+#EXTINF:-1,CCTV-1
+http://39.134.168.91/PLTV/1/224/3221225508/index.m3u8
+#EXTINF:-1,CCTV-1
+http://39.134.168.91/PLTV/1/224/3221225510/index.m3u8
+#EXTINF:-1,CCTV-2
+http://39.134.168.91/PLTV/1/224/3221225550/index.m3u8
+#EXTINF:-1,CCTV-3
+http://39.134.168.91/PLTV/1/224/3221225552/index.m3u8
+#EXTINF:-1,CCTV-4
+http://39.134.168.91/PLTV/1/224/3221225554/index.m3u8
+#EXTINF:-1,CCTV-5
+http://39.134.168.91/PLTV/1/224/3221225556/index.m3u8
+#EXTINF:-1,CCTV-6
+http://39.134.168.91/PLTV/1/224/3221225558/index.m3u8
+#EXTINF:-1,CCTV-7
+http://39.134.168.91/PLTV/1/224/3221225560/index.m3u8
+#EXTINF:-1,CCTV-8
+http://39.134.168.91/PLTV/1/224/3221225562/index.m3u8
+#EXTINF:-1,CCTV-10
+http://39.134.168.91/PLTV/1/224/3221225564/index.m3u8
+#EXTINF:-1,CCTV-11
+http://39.134.168.91/PLTV/1/224/3221225566/index.m3u8
+#EXTINF:-1,CCTV-12
+http://39.134.168.91/PLTV/1/224/3221225568/index.m3u8
+#EXTINF:-1,CCTV-13
+http://39.134.168.91/PLTV/1/224/3221225572/index.m3u8
+#EXTINF:-1,CCTV-14
+http://39.134.168.91/PLTV/1/224/3221225570/index.m3u8
+#EXTINF:-1,CCTV-15
+http://39.134.168.91/PLTV/1/224/3221225574/index.m3u8
+#EXTINF:-1,东方卫视
+http://39.134.168.91/PLTV/1/224/3221225492/index.m3u8
+#EXTINF:-1,东方卫视
+http://39.134.168.91/PLTV/1/224/3221225504/index.m3u8
+#EXTINF:-1,东方卫视
+http://39.134.168.91/PLTV/1/224/3221225506/index.m3u8
+#EXTINF:-1,江苏卫视
+http://39.134.168.91/PLTV/1/224/3221225512/index.m3u8
+#EXTINF:-1,江苏卫视
+http://39.134.168.91/PLTV/1/224/3221225514/index.m3u8
+#EXTINF:-1,湖南卫视
+http://39.134.168.91/PLTV/1/224/3221225516/index.m3u8
+#EXTINF:-1,湖南卫视
+http://39.134.168.91/PLTV/1/224/3221225518/index.m3u8
+#EXTINF:-1,北京卫视
+http://39.134.168.91/PLTV/1/224/3221225524/index.m3u8
+#EXTINF:-1,北京卫视
+http://39.134.168.91/PLTV/1/224/3221225526/index.m3u8
+#EXTINF:-1,广东卫视
+http://39.134.168.91/PLTV/1/224/3221225528/index.m3u8
+#EXTINF:-1,广东卫视
+http://39.134.168.91/PLTV/1/224/3221225530/index.m3u8
+#EXTINF:-1,广西卫视
+http://39.134.168.91/PLTV/1/224/3221225598/index.m3u8
+#EXTINF:-1,浙江卫视
+http://39.134.168.91/PLTV/1/224/3221225520/index.m3u8
+#EXTINF:-1,浙江卫视
+http://39.134.168.91/PLTV/1/224/3221225522/index.m3u8
+#EXTINF:-1,深圳卫视
+http://39.134.168.91/PLTV/1/224/3221225532/index.m3u8
+#EXTINF:-1,深圳卫视
+http://39.134.168.91/PLTV/1/224/3221225534/index.m3u8
+#EXTINF:-1,黑龙江卫视
+http://39.134.168.91/PLTV/1/224/3221225536/index.m3u8
+#EXTINF:-1,黑龙江卫视
+http://39.134.168.91/PLTV/1/224/3221225538/index.m3u8
+#EXTINF:-1,山东卫视
+http://39.134.168.91/PLTV/1/224/3221225540/index.m3u8
+#EXTINF:-1,山东卫视
+http://39.134.168.91/PLTV/1/224/3221225542/index.m3u8
+#EXTINF:-1,湖北卫视
+http://39.134.168.91/PLTV/1/224/3221225546/index.m3u8
+#EXTINF:-1,湖北卫视
+http://39.134.168.91/PLTV/1/224/3221225544/index.m3u8
+#EXTINF:-1,安徽卫视
+http://39.134.168.91/PLTV/1/224/3221225548/index.m3u8
+#EXTINF:-1,海南卫视
+http://39.134.168.91/PLTV/1/224/3221225620/index.m3u8
+#EXTINF:-1,青海卫视
+http://39.134.168.91/PLTV/1/224/3221225622/index.m3u8
+#EXTINF:-1,河北卫视
+http://39.134.168.91/PLTV/1/224/3221225624/index.m3u8
+#EXTINF:-1,内蒙古卫视
+http://39.134.168.91/PLTV/1/224/3221225626/index.m3u8
+#EXTINF:-1,陕西卫视
+http://39.134.168.91/PLTV/1/224/3221225628/index.m3u8
+#EXTINF:-1,新疆卫视
+http://39.134.168.91/PLTV/1/224/3221225630/index.m3u8
+#EXTINF:-1,云南卫视
+http://39.134.168.91/PLTV/1/224/3221225632/index.m3u8
+#EXTINF:-1,兵团卫视
+http://39.134.168.91/PLTV/1/224/3221225634/index.m3u8
+#EXTINF:-1,宁夏卫视
+http://39.134.168.91/PLTV/1/224/3221225638/index.m3u8
+#EXTINF:-1,甘肃卫视
+http://39.134.168.91/PLTV/1/224/3221225636/index.m3u8
+#EXTINF:-1,厦门卫视
+http://39.134.168.91/PLTV/1/224/3221225640/index.m3u8
+#EXTINF:-1,山西卫视
+http://39.134.168.91/PLTV/1/224/3221225646/index.m3u8
+#EXTINF:-1,西藏卫视
+http://39.134.168.91/PLTV/1/224/3221225648/index.m3u8
+#EXTINF:-1,重庆卫视
+http://39.134.168.91/PLTV/1/224/3221225576/index.m3u8
+#EXTINF:-1,东方财经浦东
+http://39.134.168.91/PLTV/1/224/3221225578/index.m3u8
+#EXTINF:-1,东南卫视
+http://39.134.168.91/PLTV/1/224/3221225580/index.m3u8
+#EXTINF:-1,贵州卫视
+http://39.134.168.91/PLTV/1/224/3221225582/index.m3u8
+#EXTINF:-1,河南卫视
+http://39.134.168.91/PLTV/1/224/3221225584/index.m3u8
+#EXTINF:-1,吉林卫视
+http://39.134.168.91/PLTV/1/224/3221225586/index.m3u8
+#EXTINF:-1,江西卫视
+http://39.134.168.91/PLTV/1/224/3221225588/index.m3u8
+#EXTINF:-1,辽宁卫视
+http://39.134.168.91/PLTV/1/224/3221225590/index.m3u8
+#EXTINF:-1,四川卫视
+http://39.134.168.91/PLTV/1/224/3221225592/index.m3u8
+#EXTINF:-1,天津卫视
+http://39.134.168.91/PLTV/1/224/3221225594/index.m3u8
+#EXTINF:-1,动漫秀场
+http://39.134.168.91/PLTV/1/224/3221225596/index.m3u8
+#EXTINF:-1,金鹰卡通
+http://39.134.168.91/PLTV/1/224/3221225602/index.m3u8
+#EXTINF:-1,上海外语频道
+http://39.134.168.91/PLTV/1/224/3221225486/index.m3u8
+#EXTINF:-1,纪实人文
+http://39.134.168.91/PLTV/1/224/3221225488/index.m3u8
+#EXTINF:-1,第1财经
+http://39.134.168.91/PLTV/1/224/3221225494/index.m3u8
+#EXTINF:-1,生活时尚
+http://39.134.168.91/PLTV/1/224/3221225498/index.m3u8
+#EXTINF:-1,七彩戏剧
+http://39.134.168.91/PLTV/1/224/3221225604/index.m3u8
+#EXTINF:-1,哈哈炫动
+http://39.134.168.91/PLTV/1/224/3221225606/index.m3u8
+#EXTINF:-1,游戏风云
+http://39.134.168.91/PLTV/1/224/3221225608/index.m3u8
+#EXTINF:-1,东方影视
+http://39.134.168.91/PLTV/1/224/3221225612/index.m3u8
+#EXTINF:-1,法制天地
+http://39.134.168.91/PLTV/1/224/3221225614/index.m3u8
+#EXTINF:-1,城市都市剧场
+http://39.134.168.91/PLTV/1/224/3221225616/index.m3u8
+#EXTINF:-1,max极速汽车
+http://39.134.168.91/PLTV/1/224/3221225600/index.m3u8
+#EXTINF:-1,都是频道
+http://39.134.168.91/PLTV/1/224/3221225610/index.m3u8
+#EXTINF:-1,欢笑剧场
+http://39.134.168.91/PLTV/1/224/3221225618/index.m3u8
+#EXTINF:-1,百事通TV
+http://39.134.168.91/PLTV/1/224/3221225680/index.m3u8
+#EXTINF:-1,学而思网校
+http://39.134.168.91/PLTV/1/224/3221225684/index.m3u8
+#EXTINF:-1,卡酷少儿
+http://39.134.168.91/PLTV/1/224/3221225642/index.m3u8
+#EXTINF:-1,嘉佳卡通
+http://39.134.168.91/PLTV/1/224/3221225644/index.m3u8
+
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",CHINA CHANNEL
+http://96.44.140.132:18006/view.php?type=m3u8&id=sz_phcn&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",CHINA CHANNEL
+http://96.44.140.132:18006/view.php?type=m3u8&id=sz_phzx&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",CHINA CHANNEL  
+http://96.44.140.132:18006/view.php?type=m3u8&id=sz_1001&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",CHINA CHANNEL  
+http://96.44.140.132:18006/view.php?type=m3u8&id=sz_1002&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",CHINA CHANNEL  
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58031&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",CHINA CHANNEL  
+http://96.44.140.132:18006/view.php?type=m3u8&id=sz_1004&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",CHINA CHANNEL  
+http://96.44.140.132:18006/view.php?type=m3u8&id=sz_1005&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",CHINA CHANNEL  
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8813&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",CHINA CHANNEL  
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8820&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",CHINA CHANNEL  
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8817&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",CHINA CHANNEL  
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8818&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",CHINA CHANNEL12
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8819&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",CHINA CHANNEL  
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8815&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",CHINA CHANNEL  
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8828&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",CHINA CHANNEL  
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8822&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",CHINA CHANNEL  
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8816&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",CHINA CHANNEL  
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8823&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",CHINA CHANNEL18 
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12023&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",CHINA CHANNEL  
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8814&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",CHINA CHANNEL  
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8821&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",CHINA CHANNEL  
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8827&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",CHINA CHANNEL  
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8826&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",CHINA CHANNEL  
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8829&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",CHINA CHANNEL 24
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11001&key=84797b799ae18d1b
+
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",CHINA CHANNEL  
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13018&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",CHINA CHANNEL  
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13017&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",NAT WILD  
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11008&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",FOX
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12001&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",FOX MOVIES
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12002&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",ELEVEN 1  
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11006&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",ELEVEN 2
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11007&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",CHINA CHANNEL  
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12017&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",LS TIME MOVIES
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12019&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",MOMO
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12021&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",ANIMAL PLANET  
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13014&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",ANIMAX 
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13020&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",AXN
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13021&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",Discovery TURBO  
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13011&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",HBO Signature
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13001&key=84797b799ae
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",HBO Hits
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13002&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",HBO Family
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13003&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",HBO Signature
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13004&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",Discovery
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13008&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",Discovery SCi
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13010&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",NAT GEO Taiwan
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13012&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",TCL
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13013&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",CN
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13015&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",Holiwood
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13016&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",CINIMAX
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13022&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",Disney Channel  
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13019&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",SET1
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14023&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",SET2
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14024&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",SET3
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14021&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",EBC
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14001&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",EBC2
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14004&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",EBC3
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14003&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",EBC4
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14002&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",EBC5
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14005&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",EBC6
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14008&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",EBC7
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14006&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",EBC YOYO
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14007&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",V/L Drama
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14014&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",V/L2
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14009&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",V/L3
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14010&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",V/L4
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14013&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",V/L
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14012&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",TVBS
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14015&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",TVBS2
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14017&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",TVBS3
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14016&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",CTi
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14020&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",CTi2
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14019&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",GTV
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15002&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",GTV2
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15004&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",GTV3
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15001&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",GTV4
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15003&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",mediacop 5
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_10001&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",mediacop 8
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_10002&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",mediacop U 
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_10003&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",Direct TV
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_10004&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",mediacop Flowver
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_10005&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",Cna 
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_10007&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",OKEY
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58012&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",Ramadan
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58001&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",TV2
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58002&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",TV3
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58003&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",DIDIK TV
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58005&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",8
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58006&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",TV9
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58007&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",Astro AEC
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58025&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",Astro AOD
+http://96.44.140.132:18006/view.php?type=m3u8&id=ml2_882&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",TVB
+http://96.44.140.132:18006/view.php?type=m3u8&id=ml2_884&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",Astro 1 
+http://96.44.140.132:18006/view.php?type=m3u8&id=ml2_885&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",QIY
+http://96.44.140.132:18006/view.php?type=m3u8&id=ml2_886&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",Astro  2
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58027&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",Astro coolit
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58026&key=84797b799ae18d1b
+#EXTINF:-1 group-title="CHINA CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/04/17/AZoSQq.png",Astro 3
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58021&key=84797b799ae18d1b
